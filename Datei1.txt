@@ -1,0 +1,4 @@
+Dies ist eine sehr schöne Datei. 
+Die schönste Datei auf diesem Rechner. 
+Diese Zeile habe ich mit Nano geschriebeb. 
+Fantastisch!
